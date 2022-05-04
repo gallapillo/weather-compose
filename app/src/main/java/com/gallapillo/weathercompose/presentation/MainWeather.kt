@@ -1,6 +1,5 @@
 package com.gallapillo.weathercompose.presentation
 
-import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
@@ -18,7 +17,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.gallapillo.weathercompose.R
-import com.gallapillo.weathercompose.ui.theme.*
+import com.gallapillo.weathercompose.presentation.theme.*
 
 @Composable
 fun MainWeather() {

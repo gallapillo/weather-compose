@@ -1,4 +1,4 @@
-package com.gallapillo.weathercompose.ui.theme
+package com.gallapillo.weathercompose.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
